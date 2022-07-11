@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fundamentos-Android-Primer-Proyecto-Week-3</string>
+    <string name="app_welcome_pantalla_principal">Willkommen</string>
+    <string name="app_enter_pantalla_principal">Betreten</string>
+</resources>
