@@ -3,4 +3,5 @@
     <string name="app_name">Fundamentos-Android-Primer-Proyecto-Week-3</string>
     <string name="app_welcome_pantalla_principal">Bienvenue</string>
     <string name="app_enter_pantalla_principal">Entrer</string>
+    <string name="app_no_imagen">Imagen non disponible</string>
 </resources>
